@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: #424242;
+    font-family: 'Ubuntu Mono' ;
+}
+
+main {
+     flex: 1 0 auto;
+}
+
+ p {
+     font-size: 1.1em;
+     color: #d3d3d3;
+}
